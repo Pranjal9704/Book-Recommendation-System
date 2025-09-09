@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../books_recommender"
+		},
+		{
+			"path": "../config"
+		},
+		{
+			"path": "../notebook"
+		},
+		{
+			"path": "../templates"
+		}
+	]
+}
